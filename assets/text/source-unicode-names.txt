@@ -1,0 +1,46 @@
+﻿她字成歌 · 女书字典与资料库
+UnicodeData · 396 个女书字符名称
+
+说明：这是本站整理文字与来源信息，不是原始文献全文；照片文字仅覆盖可辨识内容，请与原图核对。
+站内条目：records/source-unicode-names.html
+资料性质：公开来源资料摘要
+本站整理日期：2026-10-15
+
+摘要
+从官方 UnicodeData.txt 提取 U+1B170 至 U+1B2FB 的 396 条已编码字符记录。
+
+整理文字
+Unicode 17.0 的 UnicodeData.txt 为每个已分配字符提供码位、名称和通用属性。本页面以名称前缀 NUSHU CHARACTER- 筛选，得到 U+1B170 至 U+1B2FB 共 396 条字符记录，并逐条与 NushuSources.txt 的读音及出处字段关联。
+
+396 是本版标准中这一组已编码字符的数量，不是所有历史字形、异体或馆藏的总量。Nushu 区段结束于 U+1B2FF，但区段范围不等于每个位置都已分配字符；另有 U+16FE1 重复记号位于其他区段。
+
+资料信息
+版本：17.0.0
+已编码字符：396
+首码位：U+1B170
+末码位：U+1B2FB
+
+资料来源
+1. UnicodeData.txt · Unicode 17.0.0
+发布或提供者：Unicode Consortium
+来源链接：https://www.unicode.org/Public/17.0.0/ucd/UnicodeData.txt
+来源位置：NUSHU CHARACTER-1B170 … NUSHU CHARACTER-1B2FB
+来源摘录：1B170;NUSHU CHARACTER-1B170;Lo;0;L;;;;;N;;;;;
+公开网页核对：2026-10-15
+
+2. Blocks.txt · Unicode 17.0.0
+发布或提供者：Unicode Consortium
+来源链接：https://www.unicode.org/Public/17.0.0/ucd/Blocks.txt
+来源位置：Nushu block
+来源摘录：1B170..1B2FF; Nushu
+公开网页核对：2026-10-15
+
+3. The Unicode Standard 17.0 · §18.8.1 Nüshu
+发布或提供者：Unicode Consortium
+来源链接：https://www.unicode.org/versions/Unicode17.0.0/core-spec/chapter-18/#G44605
+来源位置：18.8.1 · Nüshu: U+1B170–U+1B2FF
+来源摘录：Nüshu is written vertically in columns which are laid out from right to left.
+公开网页核对：2026-10-15
+
+使用说明
+用户照片、引用文献及整理内容的权利分别保留；下载不表示获得额外转载或商业使用授权。引用时请保留条目题名、来源链接或材料出处及相应日期。

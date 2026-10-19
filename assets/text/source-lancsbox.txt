@@ -1,0 +1,34 @@
+﻿她字成歌 · 女书字典与资料库
+LancsBox X · 读懂《金陀女》截图的工具背景
+
+说明：这是本站整理文字与来源信息，不是原始文献全文；照片文字仅覆盖可辨识内容，请与原图核对。
+站内条目：records/source-lancsbox.html
+资料性质：公开来源资料摘要
+本站整理日期：2026-10-16
+
+摘要
+兰卡斯特大学官网提供KWIC、Words、Text、GraphColl教程；与用户截图分开核验。
+
+整理文字
+兰卡斯特大学官方页面介绍 #LancsBox X 语言分析工具，列出KWIC、GraphColl、Words、Text等教学视频、手册与练习入口。本次读取首页显示 Current version: 6.0.1，并给出软件引用：Brezina, V. & Platt, W. (2026) #LancsBox X [software], Lancaster University。版本信息以读取当天为准。
+
+阅读提示（本站编写）：KWIC常译为“关键词语境索引”，可以逐行观察命中词及其左右语境。对照《金陀女》截图时，可先核对检索词“服侍”、命中3次、涉及1篇文本，再阅读前后文。这里整理的是截图所示结果，没有导入或重新分析nvshuall.txt。
+
+用户将工具称为LancsBox X，截图标题显示#LancsBox 6.0；官网现行版本号不能证明截图与该版本具有相同统计口径。括号值638.30的单位仍未确定，不能当作百分比或据此反推总词数。
+
+资料信息
+核查日期：2026-10-16
+官网当日版本：6.0.1
+截图可见标题：#LancsBox 6.0
+阅读提示性质：本站方法导读；非语料重跑结果
+
+资料来源
+1. #LancsBox X · 官方工具与学习入口
+发布或提供者：Lancaster University · ESRC Centre for Corpus Approaches to Social Science
+来源链接：https://lancsbox.lancs.ac.uk/
+来源位置：Instructional Videos / Manual / Exercises
+来源摘录：Brezina, V. & Platt, W. (2026) #LancsBox X [software], Lancaster University
+公开网页核对：2026-10-16
+
+使用说明
+用户照片、引用文献及整理内容的权利分别保留；下载不表示获得额外转载或商业使用授权。引用时请保留条目题名、来源链接或材料出处及相应日期。

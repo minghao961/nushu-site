@@ -1,0 +1,38 @@
+﻿她字成歌 · 女书字典与资料库
+NushuSources · 读音和字表出处
+
+说明：这是本站整理文字与来源信息，不是原始文献全文；照片文字仅覆盖可辨识内容，请与原图核对。
+站内条目：records/source-unicode-readings.html
+资料性质：公开来源资料摘要
+本站整理日期：2026-10-15
+
+摘要
+官方字段 kNSHU_Reading 与 kNSHU_DubenSrc，为每个女书字符提供可追溯数据。
+
+整理文字
+NushuSources.txt 是 Unicode 字符数据库的女书来源参考文件。文件将 kNSHU_DubenSrc 定义为两个数字组成的出处编号：前者为 NushuDuben 参考字表页码，后者为该页上的条目次序；kNSHU_Reading 提供常见读音。
+
+例如 U+1B170 的字表出处为 36.01，读音字段为 i5。本页面按原值收录这些字段，支持直接搜索码位、读音和出处。读音数据属于参考信息，不提供汉字翻译，也不据此生成或冒充传承人录音。
+
+资料信息
+数据版本：17.0.0
+文件日期：2025-04-27
+示例：U+1B170 / i5 / 36.01
+
+资料来源
+1. NushuSources.txt · Unicode 17.0.0
+发布或提供者：Unicode Consortium
+来源链接：https://www.unicode.org/Public/17.0.0/ucd/NushuSources.txt
+来源位置：kNSHU_Reading / kNSHU_DubenSrc
+来源摘录：U+1B170  kNSHU_DubenSrc  36.01；U+1B170  kNSHU_Reading  i5
+公开网页核对：2026-10-15
+
+2. The Unicode Standard 17.0 · §18.8.1 Nüshu
+发布或提供者：Unicode Consortium
+来源链接：https://www.unicode.org/versions/Unicode17.0.0/core-spec/chapter-18/#G44605
+来源位置：18.8.1 · Nüshu: U+1B170–U+1B2FF
+来源摘录：Nüshu is written vertically in columns which are laid out from right to left.
+公开网页核对：2026-10-15
+
+使用说明
+用户照片、引用文献及整理内容的权利分别保留；下载不表示获得额外转载或商业使用授权。引用时请保留条目题名、来源链接或材料出处及相应日期。
